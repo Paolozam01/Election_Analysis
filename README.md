@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview:
+## Overview of Election Audit:
 
 For this challenge I was asked help Tom code a program which could determin the elections results for the state of Colorado. In order to help Tom I created a program which does the following things:
 
@@ -15,7 +15,7 @@ Determines the winner of the election based on the popular vote.
 Data Source: election_results.csv
 Software: Python 3.7.6, Visual Studio 1.69.1
 
-## Summary
+## Election-Audit Results:
 
 After coding the program and running it in order to analyze the elections I got the following results:
 1. The total amount of votes cast was 369.711
@@ -29,3 +29,5 @@ After coding the program and running it in order to analyze the elections I got 
 -Raymon Anthony Doane recived 3.1% ot the vote (11,606 total votes). 
 The winner of the elections was:
 -Diana DeGette who recived 73.8% of the vote (272,892 total votes).
+
+## Election-Audit Summary:
