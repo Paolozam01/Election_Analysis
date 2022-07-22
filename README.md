@@ -12,8 +12,8 @@ Determines the winner of the election based on the popular vote.
 
 ## Resources:
 
-Data Source: election_results.csv
-Software: Python 3.7.6, Visual Studio 1.69.1
+-Data Source: election_results.csv
+-Software: Python 3.7.6, Visual Studio 1.69.1
 
 ## Election-Audit Results:
 
