@@ -51,3 +51,5 @@ Denver.
 Diana DeGette with 73.8% of the vote (272,892 total votes).
 
 ## Election-Audit Summary:
+
+The election commission now has a great program which can be used for different elections that might take place in the future. One example of this might be this same elections the next time. The only thing that would have to be done is change the list of candidates and update the vote id. This way they can run the program once again getting the same data but with the new candidates. For this example the counties list does not has to be changed since it will remain the same but it is also possible to use the same program with a different election with different counties. The only thing that would need to change would be the candidates list and the county list in order to have the updated information on the new election. This is a very fast way to determin election results and analyze this results. 
