@@ -4,15 +4,15 @@
 
 For this challenge I was asked help Tom code a program which could determin the elections results for the state of Colorado. In order to help Tom I created a program which does the following things:
 
-Calculates the total number of votes cast.
+-Calculates the total number of votes cast.
 
-Gets the complete list of candidates who received votes.
+-Gets the complete list of candidates who received votes.
 
-Calculates the total number of votes for each candidate.
+-Calculates the total number of votes for each candidate.
 
-Calculates the percentage of votes for each candidate.
+-Calculates the percentage of votes for each candidate.
 
-Determines the winner of the election based on the popular vote.
+-Determines the winner of the election based on the popular vote.
 
 ## Resources:
 
@@ -29,7 +29,9 @@ After coding the program and running it in order to analyze the elections I got 
 2. The results of the elections for each of the counties was the following:
 
 Jefferson had 10.5% of the votes (38,855 total votes).
+
 Denver had 82.8% of the votes (306,055 total votes).
+
 Arapahoe had 6.7% of the votes (24,801 total votes).
 
 3. County with the largest number of votes: 
@@ -39,7 +41,9 @@ Denver.
 4. The results of the elections on each candidate was the follwing:
 
 -Charles Casper Stockham recived 23.0% of the vote (85,213 total votes).
+
 -Diana DeGette recived 73.8% of the vote (272,892 total votes).
+
 -Raymon Anthony Doane recived 3.1% ot the vote (11,606 total votes). 
 
 5. Winner of the elections:
